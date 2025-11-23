@@ -1,1 +1,1 @@
-el proyecto chinchulin👻#verbalace
+Aplicacion para calcular regresion a partir de un array :V 👻
